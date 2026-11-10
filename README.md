@@ -10,11 +10,13 @@ This repository holds the releases only.
 
 ## Install
 
-1. Download the latest zip from [Releases](https://github.com/GrooverMD/Lacuna-Desktop/releases).
-2. Unzip it anywhere. It is `LacunaDesktop.exe` and an `Assets` folder beside it.
-3. Run `LacunaDesktop.exe` and log in with your empire's name and password.
+1. Download `LacunaDesktopSetup-<version>.exe` from the latest [release](https://github.com/GrooverMD/Lacuna-Desktop/releases/latest).
+2. Run it. It installs for you only, with no admin rights needed, and adds Lacuna Desktop to the Start menu.
+3. Start Lacuna Desktop and log in with your empire's name and password.
 
-Windows 64-bit. Nothing else to install.
+Windows 64-bit. Nothing else to install. The game's pictures come from the
+game's asset server the first time each one is needed, then are kept on your
+computer. Uninstall from Windows Settings › Apps.
 
 Your settings are kept in your user settings folder. If you ask it to remember
 your password, it is encrypted for your Windows account.
